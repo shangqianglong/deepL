@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.snail.saltytv",
+    "package_name": "com.snail.myapplication",
     "sha256_cert_fingerprints":
     ["98:FC:10:91:E4:2D:FC:B2:DE:53:79:5C:B6:17:68:73:A4:2F:50:E0:13:88:9F:5D:0A:5C:11:6A:85:AB:83:F1"]
   }
